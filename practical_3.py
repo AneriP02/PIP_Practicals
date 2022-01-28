@@ -9,7 +9,6 @@ n=len(Room_list)
 temp_l=[]
 Room_list.sort()
 count=0
-print(Room_list)
 i=0
 while(i<n):
     count=Room_list.count(Room_list[i])
